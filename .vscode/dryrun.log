@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/alfredo/Downloads/tarea3'
+gcc -o procesos main.c
+make: Leaving directory '/home/alfredo/Downloads/tarea3'
+ 
